@@ -8,5 +8,5 @@ Practical Implementation: Follow step-by-step tutorials on how to apply these co
 
 Whether you're looking to advance your career or enhance your skills, this playlist offers a comprehensive and streamlined approach to mastering data science. Join us on this journey to transform your data analysis expertise into data science proficiency.
 
-@TheDataLoom
+[@TheDataLoom](https://www.youtube.com/@TheDataLoom)
 Subscribe and stay tuned for regular updates and new content!
